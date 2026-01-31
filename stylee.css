@@ -1,0 +1,45 @@
+body {
+ body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+
+  /*  Background Image */
+  background-image: url("c:\Users\sridh\OneDrive\Pictures\my world\abu.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+}
+
+.album img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.letter, .write {
+  background:rgba(255, 255,255,0.85);
+  padding: 20px;
+  margin: 20px auto;
+  width: 80%;
+  border-radius: 15px;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background: #ff5c8d;
+  color: white;
+  font-size: 16px;
+}
